@@ -1,0 +1,468 @@
+2026-08-13T05:37:12Z INFO    polling 33 boards at tier <= 3 (5 unresolved)
+2026-08-13T05:38:01Z INFO      . Anthropic                413 jobs, 12 match, 1 NEW
+2026-08-13T05:38:01Z INFO      . OpenAI                   732 jobs, 13 match, 1 NEW
+2026-08-13T05:38:01Z INFO      . xAI                      215 jobs,  3 match, no change
+2026-08-13T05:38:01Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Sierra                   189 jobs, 19 match, 1 NEW
+2026-08-13T05:38:01Z INFO      . Cursor (Anysphere)       114 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Decagon                  129 jobs,  9 match, 1 NEW
+2026-08-13T05:38:01Z INFO      . Harvey                   385 jobs, 24 match, 2 NEW
+2026-08-13T05:38:01Z INFO      . Cognition                 84 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Glean                    108 jobs, 10 match, no change
+2026-08-13T05:38:01Z INFO      . Deepgram                  79 jobs,  3 match, no change
+2026-08-13T05:38:01Z INFO      . Cerebras                 124 jobs,  2 match, no change
+2026-08-13T05:38:01Z INFO      . CoreWeave                272 jobs, 10 match, 1 NEW
+2026-08-13T05:38:01Z INFO      . Scale AI                 212 jobs, 19 match, no change
+2026-08-13T05:38:01Z INFO      . Databricks               807 jobs, 27 match, no change
+2026-08-13T05:38:01Z INFO      . Figure AI                 17 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Freed                      5 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . AMP                       12 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Wayve                    104 jobs,  3 match, no change
+2026-08-13T05:38:01Z INFO      . Helsing                  137 jobs,  4 match, 1 NEW
+2026-08-13T05:38:01Z INFO      . PhysicsX                  38 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Aleph Alpha                2 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Axelera AI                14 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Cradle Bio                 7 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Owkin                      5 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Sarvam AI                 63 jobs,  6 match, no change
+2026-08-13T05:38:01Z INFO      . Whatfix                    1 jobs,  0 match, no change
+2026-08-13T05:38:01Z INFO      . Nvidia                   500 jobs, 39 match, 7 NEW
+2026-08-13T05:38:01Z INFO      . Perplexity                98 jobs,  1 match, no change
+2026-08-13T05:38:01Z INFO      . Skild AI                  60 jobs,  1 match, no change
+2026-08-13T05:38:01Z INFO      . Mistral AI               168 jobs,  1 match, no change
+2026-08-13T05:38:01Z INFO      . Nscale                   269 jobs,  2 match, no change
+2026-08-13T05:38:01Z INFO      . Fractal Analytics        140 jobs,  2 match, 1 NEW
+2026-08-13T05:38:01Z WARNING capped at 10 new roles this run (6 deferred to next cycle)
+2026-08-13T05:38:05Z INFO    dry run — seen.json not written
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO    10 new roles.
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO      Anthropic — Product Manager, New Markets and Monetization
+2026-08-13T05:38:05Z INFO         New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA
+2026-08-13T05:38:05Z INFO         https://job-boards.greenhouse.io/anthropic/jobs/5386182008
+2026-08-13T05:38:05Z INFO         19 form questions (10 required)
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO      OpenAI — Senior Manager, Order to Cash — AI Products & Cloud Partnerships
+2026-08-13T05:38:05Z INFO         San Francisco
+2026-08-13T05:38:05Z INFO         https://jobs.ashbyhq.com/openai/103d7043-28ec-4639-9c8d-0910083a1755/application
+2026-08-13T05:38:05Z INFO         form questions not exposed by ashby
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO      Sierra — Senior Product Counsel
+2026-08-13T05:38:05Z INFO         San Francisco, CA
+2026-08-13T05:38:05Z INFO         https://jobs.ashbyhq.com/sierra/1571022b-e563-44af-a089-db96c633f693/application
+2026-08-13T05:38:05Z INFO         form questions not exposed by ashby
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO      Decagon — Senior Agent Product Manager, Healthcare
+2026-08-13T05:38:05Z INFO         New York City
+2026-08-13T05:38:05Z INFO         https://jobs.ashbyhq.com/decagon/95524337-b5e7-4156-9022-af5c192f174d/application
+2026-08-13T05:38:05Z INFO         form questions not exposed by ashby
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO      Harvey — Staff Product Manager, Firm Intelligence
+2026-08-13T05:38:05Z INFO         San Francisco
+2026-08-13T05:38:05Z INFO         https://jobs.ashbyhq.com/harvey/1b2409ea-58e1-44f9-8183-6b9adb69de96/application
+2026-08-13T05:38:05Z INFO         form questions not exposed by ashby
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO      Harvey — Staff Product Manager, Firm Intelligence
+2026-08-13T05:38:05Z INFO         New York
+2026-08-13T05:38:05Z INFO         https://jobs.ashbyhq.com/harvey/43a70e6f-af43-4f78-8f30-a1a64d7d4986/application
+2026-08-13T05:38:05Z INFO         form questions not exposed by ashby
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO      CoreWeave — Senior Product Manager, Storage
+2026-08-13T05:38:05Z INFO         Bellevue, WA / Livingston, NJ / New York, NY / Sunnyvale, CA
+2026-08-13T05:38:05Z INFO         https://coreweave.com/careers/job?4703535006&board=coreweave&gh_jid=4703535006
+2026-08-13T05:38:05Z INFO         22 form questions (15 required)
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO      Helsing — Product Manager, Autonomous Systems Command & Control
+2026-08-13T05:38:05Z INFO         Munich - Berlin
+2026-08-13T05:38:05Z INFO         https://helsing.ai/jobs/4947377101?gh_jid=4947377101
+2026-08-13T05:38:05Z INFO         14 form questions (7 required)
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO      Nvidia — Principal Product Manager - DSX OS
+2026-08-13T05:38:05Z INFO         2 Locations
+2026-08-13T05:38:05Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager---DSX-OS_JR2022934
+2026-08-13T05:38:05Z INFO         form questions not exposed by workday
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO      Nvidia — Software Product Manager, Local AI
+2026-08-13T05:38:05Z INFO         US, CA, Santa Clara
+2026-08-13T05:38:05Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Product-Manager--Local-AI_JR2022709
+2026-08-13T05:38:05Z INFO         form questions not exposed by workday
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO    6 further roles deferred to the next cycle.
+2026-08-13T05:38:05Z INFO    
+2026-08-13T05:38:05Z INFO    5 unresolved boards (need a slug in companies.json): Microsoft, Alphabet / Google, Meta, Uniphore, Neysa
+2026-08-13T05:38:05Z INFO    polling 34 boards at tier <= 4 (5 unresolved)
+2026-08-13T05:38:53Z INFO      . Anthropic                413 jobs, 12 match, 1 NEW
+2026-08-13T05:38:53Z INFO      . OpenAI                   732 jobs, 13 match, 1 NEW
+2026-08-13T05:38:53Z INFO      . xAI                      215 jobs,  3 match, no change
+2026-08-13T05:38:53Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Sierra                   189 jobs, 19 match, 1 NEW
+2026-08-13T05:38:53Z INFO      . Cursor (Anysphere)       114 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Decagon                  129 jobs,  9 match, 1 NEW
+2026-08-13T05:38:53Z INFO      . Harvey                   385 jobs, 24 match, 2 NEW
+2026-08-13T05:38:53Z INFO      . Cognition                 84 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Glean                    108 jobs, 10 match, no change
+2026-08-13T05:38:53Z INFO      . Deepgram                  79 jobs,  3 match, no change
+2026-08-13T05:38:53Z INFO      . Cerebras                 124 jobs,  2 match, no change
+2026-08-13T05:38:53Z INFO      . CoreWeave                272 jobs, 10 match, 1 NEW
+2026-08-13T05:38:53Z INFO      . Scale AI                 212 jobs, 19 match, no change
+2026-08-13T05:38:53Z INFO      . Databricks               807 jobs, 27 match, no change
+2026-08-13T05:38:53Z INFO      . Figure AI                 17 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Freed                      5 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . AMP                       12 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Wayve                    104 jobs,  3 match, no change
+2026-08-13T05:38:53Z INFO      . Helsing                  137 jobs,  4 match, 1 NEW
+2026-08-13T05:38:53Z INFO      . PhysicsX                  38 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Aleph Alpha                2 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Axelera AI                14 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Cradle Bio                 7 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Owkin                      5 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Sarvam AI                 63 jobs,  6 match, no change
+2026-08-13T05:38:53Z INFO      . Whatfix                    1 jobs,  0 match, no change
+2026-08-13T05:38:53Z INFO      . Amazon                   775 jobs, 459 match, 55 NEW
+2026-08-13T05:38:53Z INFO      . Nvidia                   500 jobs, 39 match, 7 NEW
+2026-08-13T05:38:53Z INFO      . Perplexity                98 jobs,  1 match, no change
+2026-08-13T05:38:53Z INFO      . Skild AI                  60 jobs,  1 match, no change
+2026-08-13T05:38:53Z INFO      . Mistral AI               168 jobs,  1 match, no change
+2026-08-13T05:38:53Z INFO      . Nscale                   269 jobs,  2 match, no change
+2026-08-13T05:38:53Z INFO      . Fractal Analytics        140 jobs,  2 match, 1 NEW
+2026-08-13T05:38:53Z WARNING capped at 10 new roles this run (61 deferred to next cycle)
+2026-08-13T05:38:54Z INFO    dry run — seen.json not written
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO    10 new roles.
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO      Anthropic — Product Manager, New Markets and Monetization
+2026-08-13T05:38:54Z INFO         New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA
+2026-08-13T05:38:54Z INFO         https://job-boards.greenhouse.io/anthropic/jobs/5386182008
+2026-08-13T05:38:54Z INFO         19 form questions (10 required)
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO      OpenAI — Senior Manager, Order to Cash — AI Products & Cloud Partnerships
+2026-08-13T05:38:54Z INFO         San Francisco
+2026-08-13T05:38:54Z INFO         https://jobs.ashbyhq.com/openai/103d7043-28ec-4639-9c8d-0910083a1755/application
+2026-08-13T05:38:54Z INFO         form questions not exposed by ashby
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO      Sierra — Senior Product Counsel
+2026-08-13T05:38:54Z INFO         San Francisco, CA
+2026-08-13T05:38:54Z INFO         https://jobs.ashbyhq.com/sierra/1571022b-e563-44af-a089-db96c633f693/application
+2026-08-13T05:38:54Z INFO         form questions not exposed by ashby
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO      Decagon — Senior Agent Product Manager, Healthcare
+2026-08-13T05:38:54Z INFO         New York City
+2026-08-13T05:38:54Z INFO         https://jobs.ashbyhq.com/decagon/95524337-b5e7-4156-9022-af5c192f174d/application
+2026-08-13T05:38:54Z INFO         form questions not exposed by ashby
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO      Harvey — Staff Product Manager, Firm Intelligence
+2026-08-13T05:38:54Z INFO         San Francisco
+2026-08-13T05:38:54Z INFO         https://jobs.ashbyhq.com/harvey/1b2409ea-58e1-44f9-8183-6b9adb69de96/application
+2026-08-13T05:38:54Z INFO         form questions not exposed by ashby
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO      Harvey — Staff Product Manager, Firm Intelligence
+2026-08-13T05:38:54Z INFO         New York
+2026-08-13T05:38:54Z INFO         https://jobs.ashbyhq.com/harvey/43a70e6f-af43-4f78-8f30-a1a64d7d4986/application
+2026-08-13T05:38:54Z INFO         form questions not exposed by ashby
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO      CoreWeave — Senior Product Manager, Storage
+2026-08-13T05:38:54Z INFO         Bellevue, WA / Livingston, NJ / New York, NY / Sunnyvale, CA
+2026-08-13T05:38:54Z INFO         https://coreweave.com/careers/job?4703535006&board=coreweave&gh_jid=4703535006
+2026-08-13T05:38:54Z INFO         22 form questions (15 required)
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO      Helsing — Product Manager, Autonomous Systems Command & Control
+2026-08-13T05:38:54Z INFO         Munich - Berlin
+2026-08-13T05:38:54Z INFO         https://helsing.ai/jobs/4947377101?gh_jid=4947377101
+2026-08-13T05:38:54Z INFO         14 form questions (7 required)
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO      Amazon — Principal Product Manager, Tech, AWS Neurosymbolic AI
+2026-08-13T05:38:54Z INFO         Seattle, Washington, USA
+2026-08-13T05:38:54Z INFO         https://account.amazon.jobs/jobs/10498908/apply
+2026-08-13T05:38:54Z INFO         form questions not exposed by amazon
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO      Amazon — Principal Product Manager Tech, 3PX Analytics & Insights
+2026-08-13T05:38:54Z INFO         Seattle, Washington, USA
+2026-08-13T05:38:54Z INFO         https://account.amazon.jobs/jobs/10500195/apply
+2026-08-13T05:38:54Z INFO         form questions not exposed by amazon
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO    61 further roles deferred to the next cycle.
+2026-08-13T05:38:54Z INFO    
+2026-08-13T05:38:54Z INFO    5 unresolved boards (need a slug in companies.json): Microsoft, Alphabet / Google, Meta, Uniphore, Neysa
+2026-08-13T05:52:44Z INFO    polling 33 boards at tier <= 3 (3 unresolved)
+2026-08-13T05:53:39Z INFO      . Anthropic                413 jobs, 12 match, 1 NEW
+2026-08-13T05:53:39Z INFO      . OpenAI                   728 jobs, 13 match, 1 NEW
+2026-08-13T05:53:39Z INFO      . xAI                      215 jobs,  3 match, no change
+2026-08-13T05:53:39Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-13T05:53:39Z WARNING   x Sierra                   [Errno 54] Connection reset by peer
+2026-08-13T05:53:39Z INFO      . Cursor (Anysphere)       114 jobs,  0 match, no change
+2026-08-13T05:53:39Z WARNING   x Decagon                  [Errno 54] Connection reset by peer
+2026-08-13T05:53:39Z INFO      . Harvey                   385 jobs, 24 match, 2 NEW
+2026-08-13T05:53:39Z WARNING   x Cognition                [Errno 54] Connection reset by peer
+2026-08-13T05:53:39Z INFO      . Glean                    108 jobs, 10 match, no change
+2026-08-13T05:53:39Z WARNING   x Deepgram                 [Errno 54] Connection reset by peer
+2026-08-13T05:53:39Z WARNING   x Cerebras                 [Errno 54] Connection reset by peer
+2026-08-13T05:53:39Z INFO      . CoreWeave                272 jobs, 10 match, 1 NEW
+2026-08-13T05:53:39Z INFO      . Scale AI                 212 jobs, 19 match, no change
+2026-08-13T05:53:39Z INFO      . Databricks               807 jobs, 27 match, no change
+2026-08-13T05:53:39Z INFO      . Figure AI                 17 jobs,  0 match, no change
+2026-08-13T05:53:39Z INFO      . Freed                      5 jobs,  0 match, no change
+2026-08-13T05:53:39Z INFO      . AMP                       12 jobs,  0 match, no change
+2026-08-13T05:53:39Z INFO      . Wayve                    104 jobs,  3 match, no change
+2026-08-13T05:53:39Z INFO      . Helsing                  137 jobs,  4 match, 1 NEW
+2026-08-13T05:53:39Z INFO      . PhysicsX                  38 jobs,  0 match, no change
+2026-08-13T05:53:39Z INFO      . Aleph Alpha                2 jobs,  0 match, no change
+2026-08-13T05:53:39Z INFO      . Axelera AI                14 jobs,  0 match, no change
+2026-08-13T05:53:39Z INFO      . Cradle Bio                 7 jobs,  0 match, no change
+2026-08-13T05:53:39Z INFO      . Owkin                      5 jobs,  0 match, no change
+2026-08-13T05:53:39Z INFO      . Sarvam AI                 63 jobs,  6 match, no change
+2026-08-13T05:53:39Z INFO      . Whatfix                    1 jobs,  0 match, no change
+2026-08-13T05:53:39Z INFO      . Nvidia                   500 jobs, 39 match, 7 NEW
+2026-08-13T05:53:39Z INFO      . Perplexity                98 jobs,  1 match, no change
+2026-08-13T05:53:39Z INFO      . Skild AI                  60 jobs,  1 match, no change
+2026-08-13T05:53:39Z INFO      . Mistral AI               168 jobs,  1 match, no change
+2026-08-13T05:53:39Z INFO      . Nscale                   269 jobs,  2 match, no change
+2026-08-13T05:53:39Z INFO      . Fractal Analytics        140 jobs,  2 match, 1 NEW
+2026-08-13T05:53:39Z WARNING capped at 10 new roles this run (4 deferred to next cycle)
+2026-08-13T05:53:46Z INFO    dry run — seen.json not written
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO    10 new roles.
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO      Anthropic — Product Manager, New Markets and Monetization
+2026-08-13T05:53:46Z INFO         New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA
+2026-08-13T05:53:46Z INFO         https://job-boards.greenhouse.io/anthropic/jobs/5386182008
+2026-08-13T05:53:46Z INFO         19 form questions (10 required)
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO      OpenAI — Senior Manager, Order to Cash — AI Products & Cloud Partnerships
+2026-08-13T05:53:46Z INFO         San Francisco
+2026-08-13T05:53:46Z INFO         https://jobs.ashbyhq.com/openai/103d7043-28ec-4639-9c8d-0910083a1755/application
+2026-08-13T05:53:46Z INFO         form questions not exposed by ashby
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO      Harvey — Staff Product Manager, Firm Intelligence
+2026-08-13T05:53:46Z INFO         San Francisco
+2026-08-13T05:53:46Z INFO         https://jobs.ashbyhq.com/harvey/1b2409ea-58e1-44f9-8183-6b9adb69de96/application
+2026-08-13T05:53:46Z INFO         form questions not exposed by ashby
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO      Harvey — Staff Product Manager, Firm Intelligence
+2026-08-13T05:53:46Z INFO         New York
+2026-08-13T05:53:46Z INFO         https://jobs.ashbyhq.com/harvey/43a70e6f-af43-4f78-8f30-a1a64d7d4986/application
+2026-08-13T05:53:46Z INFO         form questions not exposed by ashby
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO      CoreWeave — Senior Product Manager, Storage
+2026-08-13T05:53:46Z INFO         Bellevue, WA / Livingston, NJ / New York, NY / Sunnyvale, CA
+2026-08-13T05:53:46Z INFO         https://coreweave.com/careers/job?4703535006&board=coreweave&gh_jid=4703535006
+2026-08-13T05:53:46Z INFO         22 form questions (15 required)
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO      Helsing — Product Manager, Autonomous Systems Command & Control
+2026-08-13T05:53:46Z INFO         Munich - Berlin
+2026-08-13T05:53:46Z INFO         https://helsing.ai/jobs/4947377101?gh_jid=4947377101
+2026-08-13T05:53:46Z INFO         14 form questions (7 required)
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO      Nvidia — Principal Product Manager - DSX OS
+2026-08-13T05:53:46Z INFO         2 Locations
+2026-08-13T05:53:46Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager---DSX-OS_JR2022934
+2026-08-13T05:53:46Z INFO         form questions not exposed by workday
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO      Nvidia — Software Product Manager, Local AI
+2026-08-13T05:53:46Z INFO         US, CA, Santa Clara
+2026-08-13T05:53:46Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Product-Manager--Local-AI_JR2022709
+2026-08-13T05:53:46Z INFO         form questions not exposed by workday
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO      Nvidia — Senior Product Manager, NVCF - Platform and Developer Experience
+2026-08-13T05:53:46Z INFO         2 Locations
+2026-08-13T05:53:46Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--NVCF---Platform-and-Developer-Experience_JR2018175
+2026-08-13T05:53:46Z INFO         form questions not exposed by workday
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO      Nvidia — Senior Product Manager - Enterprise Reference Architecture
+2026-08-13T05:53:46Z INFO         2 Locations
+2026-08-13T05:53:46Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---Enterprise-Reference-Architecture_JR2022708
+2026-08-13T05:53:46Z INFO         form questions not exposed by workday
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO    4 further roles deferred to the next cycle.
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO    5 boards failed: Sierra, Decagon, Cognition, Deepgram, Cerebras
+2026-08-13T05:53:46Z INFO    
+2026-08-13T05:53:46Z INFO    3 unresolved boards (need a slug in companies.json): Alphabet / Google, Meta, Uniphore
+2026-08-13T05:53:46Z INFO    polling 35 boards at tier <= 4 (3 unresolved)
+2026-08-13T05:54:33Z INFO      . Anthropic                413 jobs, 12 match, 1 NEW
+2026-08-13T05:54:33Z INFO      . OpenAI                   728 jobs, 13 match, 1 NEW
+2026-08-13T05:54:33Z INFO      . xAI                      215 jobs,  3 match, no change
+2026-08-13T05:54:33Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Sierra                   189 jobs, 19 match, 1 NEW
+2026-08-13T05:54:33Z INFO      . Cursor (Anysphere)       114 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Decagon                  129 jobs,  9 match, 1 NEW
+2026-08-13T05:54:33Z INFO      . Harvey                   385 jobs, 24 match, 2 NEW
+2026-08-13T05:54:33Z INFO      . Cognition                 84 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Glean                    108 jobs, 10 match, no change
+2026-08-13T05:54:33Z INFO      . Deepgram                  79 jobs,  3 match, no change
+2026-08-13T05:54:33Z INFO      . Cerebras                 124 jobs,  2 match, no change
+2026-08-13T05:54:33Z INFO      . CoreWeave                272 jobs, 10 match, 1 NEW
+2026-08-13T05:54:33Z INFO      . Scale AI                 212 jobs, 19 match, no change
+2026-08-13T05:54:33Z WARNING   x Databricks               The read operation timed out
+2026-08-13T05:54:33Z INFO      . Figure AI                 17 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Freed                      5 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . AMP                       12 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Wayve                    104 jobs,  3 match, no change
+2026-08-13T05:54:33Z INFO      . Helsing                  137 jobs,  4 match, 1 NEW
+2026-08-13T05:54:33Z INFO      . PhysicsX                  38 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Aleph Alpha                2 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Axelera AI                14 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Cradle Bio                 7 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Owkin                      5 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Sarvam AI                 63 jobs,  6 match, no change
+2026-08-13T05:54:33Z INFO      . Whatfix                    1 jobs,  0 match, no change
+2026-08-13T05:54:33Z INFO      . Microsoft                300 jobs, 63 match, 24 NEW
+2026-08-13T05:54:33Z INFO      . Amazon                   775 jobs, 459 match, 55 NEW
+2026-08-13T05:54:33Z INFO      . Nvidia                   500 jobs, 39 match, 7 NEW
+2026-08-13T05:54:33Z INFO      . Perplexity                98 jobs,  1 match, no change
+2026-08-13T05:54:33Z INFO      . Skild AI                  60 jobs,  1 match, no change
+2026-08-13T05:54:33Z INFO      . Mistral AI               168 jobs,  1 match, no change
+2026-08-13T05:54:33Z INFO      . Nscale                   269 jobs,  2 match, no change
+2026-08-13T05:54:33Z INFO      . Fractal Analytics        140 jobs,  2 match, 1 NEW
+2026-08-13T05:54:33Z WARNING capped at 10 new roles this run (85 deferred to next cycle)
+2026-08-13T05:54:35Z INFO    dry run — seen.json not written
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO    10 new roles.
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO      Anthropic — Product Manager, New Markets and Monetization
+2026-08-13T05:54:35Z INFO         New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA
+2026-08-13T05:54:35Z INFO         https://job-boards.greenhouse.io/anthropic/jobs/5386182008
+2026-08-13T05:54:35Z INFO         19 form questions (10 required)
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO      OpenAI — Senior Manager, Order to Cash — AI Products & Cloud Partnerships
+2026-08-13T05:54:35Z INFO         San Francisco
+2026-08-13T05:54:35Z INFO         https://jobs.ashbyhq.com/openai/103d7043-28ec-4639-9c8d-0910083a1755/application
+2026-08-13T05:54:35Z INFO         form questions not exposed by ashby
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO      Sierra — Senior Product Counsel
+2026-08-13T05:54:35Z INFO         San Francisco, CA
+2026-08-13T05:54:35Z INFO         https://jobs.ashbyhq.com/sierra/1571022b-e563-44af-a089-db96c633f693/application
+2026-08-13T05:54:35Z INFO         form questions not exposed by ashby
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO      Decagon — Senior Agent Product Manager, Healthcare
+2026-08-13T05:54:35Z INFO         New York City
+2026-08-13T05:54:35Z INFO         https://jobs.ashbyhq.com/decagon/95524337-b5e7-4156-9022-af5c192f174d/application
+2026-08-13T05:54:35Z INFO         form questions not exposed by ashby
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO      Harvey — Staff Product Manager, Firm Intelligence
+2026-08-13T05:54:35Z INFO         San Francisco
+2026-08-13T05:54:35Z INFO         https://jobs.ashbyhq.com/harvey/1b2409ea-58e1-44f9-8183-6b9adb69de96/application
+2026-08-13T05:54:35Z INFO         form questions not exposed by ashby
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO      Harvey — Staff Product Manager, Firm Intelligence
+2026-08-13T05:54:35Z INFO         New York
+2026-08-13T05:54:35Z INFO         https://jobs.ashbyhq.com/harvey/43a70e6f-af43-4f78-8f30-a1a64d7d4986/application
+2026-08-13T05:54:35Z INFO         form questions not exposed by ashby
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO      CoreWeave — Senior Product Manager, Storage
+2026-08-13T05:54:35Z INFO         Bellevue, WA / Livingston, NJ / New York, NY / Sunnyvale, CA
+2026-08-13T05:54:35Z INFO         https://coreweave.com/careers/job?4703535006&board=coreweave&gh_jid=4703535006
+2026-08-13T05:54:35Z INFO         22 form questions (15 required)
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO      Helsing — Product Manager, Autonomous Systems Command & Control
+2026-08-13T05:54:35Z INFO         Munich - Berlin
+2026-08-13T05:54:35Z INFO         https://helsing.ai/jobs/4947377101?gh_jid=4947377101
+2026-08-13T05:54:35Z INFO         14 form questions (7 required)
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO      Microsoft — Principal Product Manager, Content Product
+2026-08-13T05:54:35Z INFO         Mountain View, CA, US | Redmond, WA, US
+2026-08-13T05:54:35Z INFO         https://apply.careers.microsoft.com/careers/job/1970393556955501
+2026-08-13T05:54:35Z INFO         form questions not exposed by microsoft
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO      Microsoft — Senior Product Manager
+2026-08-13T05:54:35Z INFO         Hyderabad, TS, IN
+2026-08-13T05:54:35Z INFO         https://apply.careers.microsoft.com/careers/job/1970393556959274
+2026-08-13T05:54:35Z INFO         form questions not exposed by microsoft
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO    85 further roles deferred to the next cycle.
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO    1 board failed: Databricks
+2026-08-13T05:54:35Z INFO    
+2026-08-13T05:54:35Z INFO    3 unresolved boards (need a slug in companies.json): Alphabet / Google, Meta, Uniphore
+2026-08-13T06:06:15Z INFO    polling 34 boards at tier <= 3 (2 unresolved)
+2026-08-13T06:07:05Z INFO      . Anthropic                413 jobs, 12 match, 1 NEW
+2026-08-13T06:07:05Z INFO      . OpenAI                   729 jobs, 13 match, 1 NEW
+2026-08-13T06:07:05Z INFO      . xAI                      215 jobs,  3 match, no change
+2026-08-13T06:07:05Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Sierra                   189 jobs, 19 match, 1 NEW
+2026-08-13T06:07:05Z INFO      . Cursor (Anysphere)       114 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Decagon                  129 jobs,  9 match, 1 NEW
+2026-08-13T06:07:05Z INFO      . Harvey                   385 jobs, 24 match, 2 NEW
+2026-08-13T06:07:05Z INFO      . Cognition                 84 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Glean                    108 jobs, 10 match, no change
+2026-08-13T06:07:05Z INFO      . Deepgram                  79 jobs,  3 match, no change
+2026-08-13T06:07:05Z INFO      . Cerebras                 124 jobs,  2 match, no change
+2026-08-13T06:07:05Z INFO      . CoreWeave                272 jobs, 10 match, 1 NEW
+2026-08-13T06:07:05Z INFO      . Scale AI                 212 jobs, 19 match, no change
+2026-08-13T06:07:05Z INFO      . Databricks               805 jobs, 27 match, no change
+2026-08-13T06:07:05Z INFO      . Figure AI                 17 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Freed                      5 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . AMP                       12 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Wayve                    104 jobs,  3 match, no change
+2026-08-13T06:07:05Z INFO      . Helsing                  137 jobs,  4 match, 1 NEW
+2026-08-13T06:07:05Z INFO      . PhysicsX                  38 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Aleph Alpha                2 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Axelera AI                14 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Cradle Bio                 7 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Owkin                      5 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Sarvam AI                 63 jobs,  6 match, no change
+2026-08-13T06:07:05Z INFO      . Whatfix                    1 jobs,  0 match, no change
+2026-08-13T06:07:05Z INFO      . Nvidia                   500 jobs, 39 match, 7 NEW
+2026-08-13T06:07:05Z INFO      . Perplexity                98 jobs,  1 match, no change
+2026-08-13T06:07:05Z INFO      . Skild AI                  60 jobs,  1 match, no change
+2026-08-13T06:07:05Z INFO      . Mistral AI               168 jobs,  1 match, no change
+2026-08-13T06:07:05Z INFO      . Nscale                   269 jobs,  2 match, no change
+2026-08-13T06:07:05Z INFO      . Fractal Analytics        140 jobs,  2 match, 1 NEW
+2026-08-13T06:07:05Z INFO      . Uniphore                  39 jobs,  0 match, no change
+2026-08-13T06:07:05Z WARNING capped at 10 new roles this run (6 deferred to next cycle)
+2026-08-13T06:07:09Z INFO    dry run — seen.json not written
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO    10 new roles.
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO      Anthropic — Product Manager, New Markets and Monetization
+2026-08-13T06:07:09Z INFO         New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA
+2026-08-13T06:07:09Z INFO         https://job-boards.greenhouse.io/anthropic/jobs/5386182008
+2026-08-13T06:07:09Z INFO         19 form questions (10 required)
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO      OpenAI — Senior Manager, Order to Cash — AI Products & Cloud Partnerships
+2026-08-13T06:07:09Z INFO         San Francisco
+2026-08-13T06:07:09Z INFO         https://jobs.ashbyhq.com/openai/103d7043-28ec-4639-9c8d-0910083a1755/application
+2026-08-13T06:07:09Z INFO         form questions not exposed by ashby
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO      Sierra — Senior Product Counsel
+2026-08-13T06:07:09Z INFO         San Francisco, CA
+2026-08-13T06:07:09Z INFO         https://jobs.ashbyhq.com/sierra/1571022b-e563-44af-a089-db96c633f693/application
+2026-08-13T06:07:09Z INFO         form questions not exposed by ashby
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO      Decagon — Senior Agent Product Manager, Healthcare
+2026-08-13T06:07:09Z INFO         New York City
+2026-08-13T06:07:09Z INFO         https://jobs.ashbyhq.com/decagon/95524337-b5e7-4156-9022-af5c192f174d/application
+2026-08-13T06:07:09Z INFO         form questions not exposed by ashby
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO      Harvey — Staff Product Manager, Firm Intelligence
+2026-08-13T06:07:09Z INFO         San Francisco
+2026-08-13T06:07:09Z INFO         https://jobs.ashbyhq.com/harvey/1b2409ea-58e1-44f9-8183-6b9adb69de96/application
+2026-08-13T06:07:09Z INFO         form questions not exposed by ashby
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO      Harvey — Staff Product Manager, Firm Intelligence
+2026-08-13T06:07:09Z INFO         New York
+2026-08-13T06:07:09Z INFO         https://jobs.ashbyhq.com/harvey/43a70e6f-af43-4f78-8f30-a1a64d7d4986/application
+2026-08-13T06:07:09Z INFO         form questions not exposed by ashby
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO      CoreWeave — Senior Product Manager, Storage
+2026-08-13T06:07:09Z INFO         Bellevue, WA / Livingston, NJ / New York, NY / Sunnyvale, CA
+2026-08-13T06:07:09Z INFO         https://coreweave.com/careers/job?4703535006&board=coreweave&gh_jid=4703535006
+2026-08-13T06:07:09Z INFO         22 form questions (15 required)
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO      Helsing — Product Manager, Autonomous Systems Command & Control
+2026-08-13T06:07:09Z INFO         Munich - Berlin
+2026-08-13T06:07:09Z INFO         https://helsing.ai/jobs/4947377101?gh_jid=4947377101
+2026-08-13T06:07:09Z INFO         14 form questions (7 required)
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO      Nvidia — Principal Product Manager - DSX OS
+2026-08-13T06:07:09Z INFO         2 Locations
+2026-08-13T06:07:09Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager---DSX-OS_JR2022934
+2026-08-13T06:07:09Z INFO         form questions not exposed by workday
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO      Nvidia — Software Product Manager, Local AI
+2026-08-13T06:07:09Z INFO         US, CA, Santa Clara
+2026-08-13T06:07:09Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Product-Manager--Local-AI_JR2022709
+2026-08-13T06:07:09Z INFO         form questions not exposed by workday
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO    6 further roles deferred to the next cycle.
+2026-08-13T06:07:09Z INFO    
+2026-08-13T06:07:09Z INFO    2 unresolved boards (need a slug in companies.json): Alphabet / Google, Meta

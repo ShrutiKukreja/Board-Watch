@@ -1,0 +1,835 @@
+{
+ "AMP": {},
+ "Aleph Alpha": {},
+ "Anthropic": {
+  "5096878008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5097490008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5139628008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5153924008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5164820008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5220143008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5247407008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5247640008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5251866008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5253339008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5281348008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5324349008": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Axelera AI": {},
+ "Cerebras": {
+  "538ef11a-dfaa-47f1-8557-790199a769d1": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8f7c4fa6-cb09-460c-98e1-d9f4f7928f28": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Cognition": {},
+ "CoreWeave": {
+  "4642612006": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4671513006": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4673538006": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4679718006": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4684346006": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4690309006": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4694195006": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4697073006": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4703191006": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Cradle Bio": {},
+ "Cursor (Anysphere)": {},
+ "Databricks": {
+  "7110499002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "7110509002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "7586263002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "7649409002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "7649411002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "7680573002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "7863365002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "7863522002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8136071002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8136204002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8186386002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8200284002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8200462002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8203285002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8235785002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8326513002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8326570002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8387085002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8394060002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8420607002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8420609002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8427940002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8427954002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8524420002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8524422002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8560772002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8679974002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Decagon": {
+  "3a417528-0fbc-4780-8e76-1ad32429e861": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "7d9e30a4-249b-4032-930c-4bd7bc8addb1": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "9109be1c-b6e3-430f-a964-887253ef891a": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "d53738b5-ca10-4283-be5a-3937aa9e7c59": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "d790a2a2-958d-4f49-96ed-adbd68d2e6ce": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "dcf9b561-f2fb-422b-88a9-33ce76e96608": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "e27fcbdf-891c-4b2f-9c47-d2bdc26eb2d4": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "e31c0645-7325-43b9-9d58-0acc40904240": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "ee6c3e3f-b6ce-4945-a367-172d2b62ccf8": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Deepgram": {
+  "3a12f539-7734-46fa-9e3b-28e041e56074": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "790579d8-6474-42ca-9104-9a4bafcf13e9": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "d0660127-6c26-4053-943c-c006990b8edc": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Figure AI": {},
+ "Freed": {},
+ "Glean": {
+  "4525297005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4525518005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4629292005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4641940005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4694761005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4694764005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4701912005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4702151005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4702367005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4702369005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Google DeepMind": {},
+ "Harvey": {
+  "04aa6087-3ca1-4b73-9320-3f1e95cf9e6e": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "2cbe13b9-a44b-47d3-abb8-45d9a98b05f6": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "320427e4-333f-445c-87f1-67d08ab0fa6c": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4221e6ce-fb4f-4f20-a615-aa1b85d2ef3c": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5377d73c-1bc8-4ba1-8377-f2ee707c521a": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "70ac0c85-e987-4657-aae4-95337e344d4e": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "7a3b9337-ac67-4255-8db5-08bb3d57541e": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "85de4e2f-9ece-40a6-bea4-3ee94bba6c97": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8ae1a13f-362b-4e7f-8456-c0fbe5d33571": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8d092528-2554-42e4-a68b-67307b48e6aa": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "9bdec908-b2b7-44b0-8695-582bed7cf9ad": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "a8527ca6-8e11-4ea1-b5f1-082732fcd030": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "bcc3d29e-31c1-45d7-8229-52bd143a4667": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "be87aefc-9e03-4294-a86f-a4c5e9fddb44": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "d1669780-6956-4e5b-bc84-590267c565ea": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "d629fa64-599d-435c-b4ef-a925299ddac8": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "d67d556d-3b93-4453-a5f4-65365a3109bf": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "e5272fbe-4431-4841-bf00-b9f59812b82a": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "e89103ca-765f-42f1-882a-80364f3c2321": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "ec2ec507-dd81-4acc-90bc-afcba2ea7369": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "f0e4e24a-2a7a-4fc4-8872-9a8a762fecf5": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "f3708fe6-d2f4-47db-bffd-9063d6bb06ec": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Helsing": {
+  "4869481101": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4936025101": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4948713101": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "OpenAI": {
+  "05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "33b8effb-b048-4934-a279-87fff192a330": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "37d6637c-48aa-48c7-8665-ec5abfcf32d0": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "83b3ef17-5211-403d-b763-850e1c60faa0": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "97681dd5-65ad-4eb5-b692-e6d192871c38": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "c3783e22-c6b6-41d6-b0d4-2b648912268f": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "da9700e0-060e-44a3-9a0a-57e723e877ce": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "df8a1d73-58b9-4571-86f5-da9a12155fbb": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "faa6042d-ac67-4a76-a723-3ca7015adc34": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "fbc7ebaf-3a26-406d-9ff6-f166f3e246a2": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "fc38c6bf-5330-435c-99b6-1bcf1f5829a8": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Owkin": {},
+ "PhysicsX": {},
+ "Sarvam AI": {
+  "6390e602-7b98-4700-baa9-ced5be8b1651": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "929e2e12-7a2f-4e28-9d27-f220910b2125": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "9e197c29-5164-42eb-8e74-4f691a794517": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "adbc090f-3aad-4b12-af36-a2f4b55c017e": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "c4bb3b2c-7608-4d57-8761-650b4222ac13": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "f462051e-ec76-45cf-96c5-e0192dd4dcc6": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Scale AI": {
+  "4589749005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4609736005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4611776005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4612403005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4644742005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4650514005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4669229005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4673051005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4675842005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4683446005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4699779005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4702890005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4709281005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4713648005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4718559005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4720213005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4720216005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4720501005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4721008005": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Sierra": {
+  "0c66e8ed-1c18-4b64-ad27-a522a866b6e1": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "10d2e2f1-6657-40c9-b6fb-6999c76df6cf": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "1e052261-0c89-4ccb-abfa-3820a1596a6e": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "22ba107d-de01-4aa3-98fc-838cccad760c": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "2e07f536-bbaa-4cc0-957a-774ddf99de64": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "38f06024-4ee9-47d6-a36f-f2791ac1e412": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "422cb7bb-ab03-447b-808c-6d72f59bbd2f": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4892f01e-8871-4b32-8963-527f1cf8db5d": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "4f0e65ba-b262-4d79-b926-3988f8eb0c00": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5aaa2eeb-92bc-4b0a-901e-8e091eff819e": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "65eb2c63-c936-4e8e-87e7-ea080dcdca73": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "758beaca-db59-4e46-9867-7a93989735a7": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "9b94e279-5869-4a33-b50f-9aa01ff61a22": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "9dc1651d-43e9-4970-a757-a5223cef1c4d": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "b4b762e6-8ce7-4ea7-b9b3-40c04f62135a": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "dc443fd1-14bd-493c-9397-c3713c78321c": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "effd7cd2-8a28-4bae-a3b8-40720ba09717": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "fed8ca9a-0bb7-44ef-a541-0be6a8ae7bba": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Wayve": {
+  "8325451002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8542420002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "8568841002": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ },
+ "Whatfix": {},
+ "_schema": 2,
+ "xAI": {
+  "5051970007": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5051984007": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  },
+  "5052027007": {
+   "applied": false,
+   "first_seen": "2026-08-09T13:33:55Z",
+   "status": "seeded"
+  }
+ }
+}

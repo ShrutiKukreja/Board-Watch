@@ -1,0 +1,208 @@
+2026-08-10T22:27:38Z INFO    polling 30 boards at tier <= 3 (16 unresolved)
+2026-08-10T22:28:04Z INFO      . Anthropic                390 jobs, 11 match, no change
+2026-08-10T22:28:04Z INFO      . OpenAI                   751 jobs, 12 match, no change
+2026-08-10T22:28:04Z INFO      . xAI                      219 jobs,  3 match, no change
+2026-08-10T22:28:04Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Sierra                   192 jobs, 18 match, no change
+2026-08-10T22:28:04Z INFO      . Cursor (Anysphere)       118 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Decagon                  127 jobs,  9 match, no change
+2026-08-10T22:28:04Z INFO      . Harvey                   375 jobs, 22 match, no change
+2026-08-10T22:28:04Z INFO      . Cognition                 84 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Glean                    106 jobs, 10 match, no change
+2026-08-10T22:28:04Z INFO      . Deepgram                  80 jobs,  3 match, no change
+2026-08-10T22:28:04Z INFO      . Cerebras                 123 jobs,  2 match, no change
+2026-08-10T22:28:04Z WARNING   x CoreWeave                The read operation timed out
+2026-08-10T22:28:04Z INFO      . Scale AI                 210 jobs, 19 match, no change
+2026-08-10T22:28:04Z INFO      . Databricks               806 jobs, 27 match, no change
+2026-08-10T22:28:04Z INFO      . Figure AI                 20 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Freed                      5 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . AMP                       12 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Wayve                    108 jobs,  3 match, no change
+2026-08-10T22:28:04Z INFO      . Helsing                  140 jobs,  4 match, 1 NEW
+2026-08-10T22:28:04Z INFO      . PhysicsX                  38 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Aleph Alpha                2 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Axelera AI                14 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Cradle Bio                 7 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Owkin                      7 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Sarvam AI                 60 jobs,  6 match, no change
+2026-08-10T22:28:04Z INFO      . Whatfix                    1 jobs,  0 match, no change
+2026-08-10T22:28:04Z INFO      . Perplexity                92 jobs,  1 match, no change
+2026-08-10T22:28:04Z INFO      . Mistral AI               166 jobs,  1 match, no change
+2026-08-10T22:28:04Z INFO      . Nscale                   273 jobs,  2 match, no change
+2026-08-10T22:28:04Z INFO    dry run — seen.json not written
+2026-08-10T22:28:04Z INFO    
+2026-08-10T22:28:04Z INFO    1 new role.
+2026-08-10T22:28:04Z INFO    
+2026-08-10T22:28:04Z INFO      Helsing — Product Manager, Autonomous Systems Command & Control
+2026-08-10T22:28:04Z INFO         Munich - Berlin
+2026-08-10T22:28:04Z INFO         https://helsing.ai/jobs/4947377101?gh_jid=4947377101
+2026-08-10T22:28:04Z INFO         14 form questions (7 required)
+2026-08-10T22:28:04Z INFO    
+2026-08-10T22:28:04Z INFO    1 board failed: CoreWeave
+2026-08-10T22:28:04Z INFO    
+2026-08-10T22:28:04Z INFO    16 unresolved boards (need a slug in companies.json): Microsoft, Alphabet / Google, Amazon, Meta, Nvidia, Skild AI, Qure.ai, Fractal Analytics, Yellow.ai, Uniphore, Neysa, Krutrim, Tripeur, Rephrase.ai, Mercury AI, Bioptimus
+2026-08-10T22:46:54Z INFO    polling 31 boards at tier <= 3 (10 unresolved)
+2026-08-10T22:46:57Z INFO      . Anthropic                390 jobs, 11 match, no change
+2026-08-10T22:46:57Z INFO      . OpenAI                   751 jobs, 12 match, no change
+2026-08-10T22:46:57Z INFO      . xAI                      219 jobs,  3 match, no change
+2026-08-10T22:46:57Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Sierra                   192 jobs, 18 match, no change
+2026-08-10T22:46:57Z INFO      . Cursor (Anysphere)       118 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Decagon                  127 jobs,  9 match, no change
+2026-08-10T22:46:57Z INFO      . Harvey                   376 jobs, 22 match, no change
+2026-08-10T22:46:57Z INFO      . Cognition                 84 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Glean                    106 jobs, 10 match, no change
+2026-08-10T22:46:57Z INFO      . Deepgram                  80 jobs,  3 match, no change
+2026-08-10T22:46:57Z INFO      . Cerebras                 123 jobs,  2 match, no change
+2026-08-10T22:46:57Z INFO      . CoreWeave                270 jobs, 10 match, 1 NEW
+2026-08-10T22:46:57Z INFO      . Scale AI                 210 jobs, 19 match, no change
+2026-08-10T22:46:57Z INFO      . Databricks               807 jobs, 27 match, no change
+2026-08-10T22:46:57Z INFO      . Figure AI                 20 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Freed                      5 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . AMP                       12 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Wayve                    108 jobs,  3 match, no change
+2026-08-10T22:46:57Z INFO      . Helsing                  140 jobs,  4 match, 1 NEW
+2026-08-10T22:46:57Z INFO      . PhysicsX                  38 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Aleph Alpha                2 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Axelera AI                14 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Cradle Bio                 7 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Owkin                      7 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Sarvam AI                 60 jobs,  6 match, no change
+2026-08-10T22:46:57Z INFO      . Whatfix                    1 jobs,  0 match, no change
+2026-08-10T22:46:57Z INFO      . Perplexity                92 jobs,  1 match, no change
+2026-08-10T22:46:57Z INFO      . Skild AI                  60 jobs,  1 match, no change
+2026-08-10T22:46:57Z INFO      . Mistral AI               166 jobs,  1 match, no change
+2026-08-10T22:46:57Z INFO      . Nscale                   272 jobs,  2 match, no change
+2026-08-10T22:46:57Z INFO    dry run — seen.json not written
+2026-08-10T22:46:57Z INFO    
+2026-08-10T22:46:57Z INFO    2 new roles.
+2026-08-10T22:46:57Z INFO    
+2026-08-10T22:46:57Z INFO      CoreWeave — Senior Product Manager, Storage
+2026-08-10T22:46:57Z INFO         Bellevue, WA / Livingston, NJ / New York, NY / Sunnyvale, CA
+2026-08-10T22:46:57Z INFO         https://coreweave.com/careers/job?4703535006&board=coreweave&gh_jid=4703535006
+2026-08-10T22:46:57Z INFO         22 form questions (15 required)
+2026-08-10T22:46:57Z INFO    
+2026-08-10T22:46:57Z INFO      Helsing — Product Manager, Autonomous Systems Command & Control
+2026-08-10T22:46:57Z INFO         Munich - Berlin
+2026-08-10T22:46:57Z INFO         https://helsing.ai/jobs/4947377101?gh_jid=4947377101
+2026-08-10T22:46:57Z INFO         14 form questions (7 required)
+2026-08-10T22:46:57Z INFO    
+2026-08-10T22:46:57Z INFO    10 unresolved boards (need a slug in companies.json): Microsoft, Alphabet / Google, Amazon, Meta, Nvidia, Fractal Analytics, Uniphore, Neysa, Rephrase.ai, Mercury AI
+2026-08-10T23:05:51Z INFO    polling 33 boards at tier <= 3 (8 unresolved)
+2026-08-10T23:06:41Z INFO      . Anthropic                390 jobs, 11 match, no change
+2026-08-10T23:06:41Z INFO      . OpenAI                   751 jobs, 12 match, no change
+2026-08-10T23:06:41Z INFO      . xAI                      220 jobs,  3 match, no change
+2026-08-10T23:06:41Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Sierra                   192 jobs, 18 match, no change
+2026-08-10T23:06:41Z INFO      . Cursor (Anysphere)       118 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Decagon                  127 jobs,  9 match, no change
+2026-08-10T23:06:41Z INFO      . Harvey                   378 jobs, 22 match, no change
+2026-08-10T23:06:41Z INFO      . Cognition                 84 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Glean                    106 jobs, 10 match, no change
+2026-08-10T23:06:41Z INFO      . Deepgram                  80 jobs,  3 match, no change
+2026-08-10T23:06:41Z INFO      . Cerebras                 123 jobs,  2 match, no change
+2026-08-10T23:06:41Z INFO      . CoreWeave                269 jobs, 10 match, 1 NEW
+2026-08-10T23:06:41Z INFO      . Scale AI                 210 jobs, 19 match, no change
+2026-08-10T23:06:41Z INFO      . Databricks               807 jobs, 27 match, no change
+2026-08-10T23:06:41Z INFO      . Figure AI                 20 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Freed                      5 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . AMP                       12 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Wayve                    108 jobs,  3 match, no change
+2026-08-10T23:06:41Z INFO      . Helsing                  140 jobs,  4 match, 1 NEW
+2026-08-10T23:06:41Z INFO      . PhysicsX                  38 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Aleph Alpha                2 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Axelera AI                14 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Cradle Bio                 7 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Owkin                      7 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Sarvam AI                 60 jobs,  6 match, no change
+2026-08-10T23:06:41Z INFO      . Whatfix                    1 jobs,  0 match, no change
+2026-08-10T23:06:41Z INFO      . Nvidia                   500 jobs, 41 match, 9 NEW
+2026-08-10T23:06:41Z INFO      . Perplexity                92 jobs,  1 match, no change
+2026-08-10T23:06:41Z INFO      . Skild AI                  60 jobs,  1 match, no change
+2026-08-10T23:06:41Z INFO      . Mistral AI               166 jobs,  1 match, no change
+2026-08-10T23:06:41Z INFO      . Nscale                   272 jobs,  2 match, no change
+2026-08-10T23:06:41Z INFO      . Fractal Analytics        133 jobs,  2 match, 1 NEW
+2026-08-10T23:06:41Z WARNING capped at 10 new roles this run (2 deferred to next cycle)
+2026-08-10T23:07:05Z INFO    dry run — seen.json not written
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO    10 new roles.
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO      CoreWeave — Senior Product Manager, Storage
+2026-08-10T23:07:05Z INFO         Bellevue, WA / Livingston, NJ / New York, NY / Sunnyvale, CA
+2026-08-10T23:07:05Z INFO         https://coreweave.com/careers/job?4703535006&board=coreweave&gh_jid=4703535006
+2026-08-10T23:07:05Z INFO         22 form questions (15 required)
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO      Helsing — Product Manager, Autonomous Systems Command & Control
+2026-08-10T23:07:05Z INFO         Munich - Berlin
+2026-08-10T23:07:05Z INFO         https://helsing.ai/jobs/4947377101?gh_jid=4947377101
+2026-08-10T23:07:05Z INFO         14 form questions (7 required)
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO      Nvidia — Principal Product Manager - DSX OS
+2026-08-10T23:07:05Z INFO         2 Locations
+2026-08-10T23:07:05Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager---DSX-OS_JR2022934
+2026-08-10T23:07:05Z INFO         form questions not exposed by workday
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO      Nvidia — Software Product Manager, Local AI
+2026-08-10T23:07:05Z INFO         US, CA, Santa Clara
+2026-08-10T23:07:05Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Product-Manager--Local-AI_JR2022709
+2026-08-10T23:07:05Z INFO         form questions not exposed by workday
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO      Nvidia — Senior Product Manager, NVCF - Platform and Developer Experience
+2026-08-10T23:07:05Z INFO         2 Locations
+2026-08-10T23:07:05Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--NVCF---Platform-and-Developer-Experience_JR2018175
+2026-08-10T23:07:05Z INFO         form questions not exposed by workday
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO      Nvidia — Senior Product Manager - Enterprise Reference Architecture
+2026-08-10T23:07:05Z INFO         2 Locations
+2026-08-10T23:07:05Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---Enterprise-Reference-Architecture_JR2022708
+2026-08-10T23:07:05Z INFO         form questions not exposed by workday
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO      Nvidia — Principal Product Manager, NVIDIA Trust Services – DGX Cloud
+2026-08-10T23:07:05Z INFO         US, CA, Santa Clara
+2026-08-10T23:07:05Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager--NVIDIA-Trust-Services---DGX-Cloud_JR2021455
+2026-08-10T23:07:05Z INFO         form questions not exposed by workday
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO      Nvidia — Senior Product Manager - AI Platform Inference
+2026-08-10T23:07:05Z INFO         US, CA, Santa Clara
+2026-08-10T23:07:05Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---AI-Platform-Inference_JR2022724
+2026-08-10T23:07:05Z INFO         form questions not exposed by workday
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO      Nvidia — Senior Technical Product Manager, Rules of Road Perception - Autonomous Vehicles
+2026-08-10T23:07:05Z INFO         3 Locations
+2026-08-10T23:07:05Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Product-Manager--Rules-of-Road-Perception---Autonomous-Vehicles_JR2022718
+2026-08-10T23:07:05Z INFO         form questions not exposed by workday
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO      Nvidia — Go-to-Market Product Manager
+2026-08-10T23:07:05Z INFO         US, CA, Santa Clara
+2026-08-10T23:07:05Z INFO         https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Product-Manager_JR2022366
+2026-08-10T23:07:05Z INFO         form questions not exposed by workday
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO    2 further roles deferred to the next cycle.
+2026-08-10T23:07:05Z INFO    
+2026-08-10T23:07:05Z INFO    8 unresolved boards (need a slug in companies.json): Microsoft, Alphabet / Google, Amazon, Meta, Uniphore, Neysa, Rephrase.ai, Mercury AI
+2026-08-10T23:11:04Z INFO    polling 15 boards at tier <= 1 (6 unresolved)
+2026-08-10T23:11:07Z INFO      . Anthropic                390 jobs, 11 match, no change
+2026-08-10T23:11:07Z INFO      . OpenAI                   751 jobs, 12 match, no change
+2026-08-10T23:11:07Z INFO      . xAI                      220 jobs,  3 match, no change
+2026-08-10T23:11:07Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-10T23:11:07Z INFO      . Sierra                   192 jobs, 18 match, no change
+2026-08-10T23:11:07Z INFO      . Cursor (Anysphere)       118 jobs,  0 match, no change
+2026-08-10T23:11:07Z INFO      . Decagon                  127 jobs,  9 match, no change
+2026-08-10T23:11:07Z INFO      . Harvey                   378 jobs, 22 match, no change
+2026-08-10T23:11:07Z INFO      . Cognition                 84 jobs,  0 match, no change
+2026-08-10T23:11:07Z INFO      . Glean                    106 jobs, 10 match, no change
+2026-08-10T23:11:07Z INFO      . Wayve                    108 jobs,  3 match, no change
+2026-08-10T23:11:07Z INFO      . Helsing                  140 jobs,  4 match, 1 NEW
+2026-08-10T23:11:07Z INFO      . Sarvam AI                 60 jobs,  6 match, no change
+2026-08-10T23:11:07Z INFO      . Perplexity                92 jobs,  1 match, no change
+2026-08-10T23:11:07Z INFO      . Mistral AI               166 jobs,  1 match, no change
+2026-08-10T23:11:08Z INFO    dry run — seen.json not written
+2026-08-10T23:11:08Z INFO    
+2026-08-10T23:11:08Z INFO    1 new role.
+2026-08-10T23:11:08Z INFO    
+2026-08-10T23:11:08Z INFO      Helsing — Product Manager, Autonomous Systems Command & Control
+2026-08-10T23:11:08Z INFO         Munich - Berlin
+2026-08-10T23:11:08Z INFO         https://helsing.ai/jobs/4947377101?gh_jid=4947377101
+2026-08-10T23:11:08Z INFO         14 form questions (7 required)
+2026-08-10T23:11:08Z INFO    
+2026-08-10T23:11:08Z INFO    6 unresolved boards (need a slug in companies.json): Microsoft, Alphabet / Google, Amazon, Meta, Uniphore, Neysa

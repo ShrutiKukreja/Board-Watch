@@ -1,0 +1,12 @@
+{
+ "backfill_days": 7,
+ "cadence": "hourly",
+ "default_archetype": "",
+ "digest_time": "22:00",
+ "github_repo": "",
+ "max_new_per_run": 10,
+ "model": "claude-sonnet-5",
+ "target_roles": [],
+ "tier": 3,
+ "timezone": "UTC"
+}

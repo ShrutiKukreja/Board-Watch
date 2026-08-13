@@ -1,0 +1,38 @@
+2026-08-09T19:54:15Z INFO    scaffold: created summary/Aug-26.md
+2026-08-09T19:54:15Z INFO    polling 13 boards at tier <= 1 (19 unresolved)
+2026-08-09T19:54:18Z INFO      . Anthropic                392 jobs, 12 match, no change
+2026-08-09T19:54:18Z INFO      . OpenAI                   750 jobs, 12 match, no change
+2026-08-09T19:54:18Z INFO      . xAI                      218 jobs,  3 match, no change
+2026-08-09T19:54:18Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-09T19:54:18Z INFO      . Sierra                   191 jobs, 18 match, no change
+2026-08-09T19:54:18Z INFO      . Cursor (Anysphere)       119 jobs,  0 match, no change
+2026-08-09T19:54:18Z INFO      . Decagon                  126 jobs,  9 match, no change
+2026-08-09T19:54:18Z INFO      . Harvey                   373 jobs, 22 match, no change
+2026-08-09T19:54:18Z INFO      . Cognition                 84 jobs,  0 match, no change
+2026-08-09T19:54:18Z INFO      . Glean                    106 jobs, 10 match, no change
+2026-08-09T19:54:18Z INFO      . Wayve                    107 jobs,  3 match, no change
+2026-08-09T19:54:18Z INFO      . Helsing                  140 jobs,  3 match, no change
+2026-08-09T19:54:18Z INFO      . Sarvam AI                 58 jobs,  6 match, no change
+2026-08-09T19:54:18Z INFO    ledger: updated summary/Aug-26.md
+2026-08-09T19:54:18Z INFO    
+2026-08-09T19:54:18Z INFO    No new roles.
+2026-08-09T19:54:18Z INFO    
+2026-08-09T19:54:18Z INFO    19 unresolved boards (need a slug in companies.json): Microsoft, Alphabet / Google, Amazon, Meta, Nvidia, Perplexity, Skild AI, Mistral AI, Nscale, Qure.ai, Fractal Analytics, Yellow.ai, Uniphore, Neysa, Krutrim, Tripeur, Rephrase.ai, Mercury AI, Bioptimus
+2026-08-09T19:54:25Z INFO    polling 13 boards at tier <= 1 (19 unresolved)
+2026-08-09T19:54:27Z INFO      . Anthropic                392 jobs, 12 match, no change
+2026-08-09T19:54:27Z INFO      . OpenAI                   750 jobs, 12 match, no change
+2026-08-09T19:54:27Z INFO      . xAI                      218 jobs,  3 match, no change
+2026-08-09T19:54:27Z INFO      . Google DeepMind           10 jobs,  0 match, no change
+2026-08-09T19:54:27Z INFO      . Sierra                   191 jobs, 18 match, no change
+2026-08-09T19:54:27Z INFO      . Cursor (Anysphere)       119 jobs,  0 match, no change
+2026-08-09T19:54:27Z INFO      . Decagon                  126 jobs,  9 match, no change
+2026-08-09T19:54:27Z INFO      . Harvey                   373 jobs, 22 match, no change
+2026-08-09T19:54:27Z INFO      . Cognition                 84 jobs,  0 match, no change
+2026-08-09T19:54:27Z INFO      . Glean                    106 jobs, 10 match, no change
+2026-08-09T19:54:27Z INFO      . Wayve                    107 jobs,  3 match, no change
+2026-08-09T19:54:27Z INFO      . Helsing                  140 jobs,  3 match, no change
+2026-08-09T19:54:27Z INFO      . Sarvam AI                 58 jobs,  6 match, no change
+2026-08-09T19:54:27Z INFO    
+2026-08-09T19:54:27Z INFO    No new roles.
+2026-08-09T19:54:27Z INFO    
+2026-08-09T19:54:27Z INFO    19 unresolved boards (need a slug in companies.json): Microsoft, Alphabet / Google, Amazon, Meta, Nvidia, Perplexity, Skild AI, Mistral AI, Nscale, Qure.ai, Fractal Analytics, Yellow.ai, Uniphore, Neysa, Krutrim, Tripeur, Rephrase.ai, Mercury AI, Bioptimus

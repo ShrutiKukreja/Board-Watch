@@ -1,0 +1,72 @@
+{
+  "_comment": "ats: greenhouse | ashby | lever | smartrecruiters | manual. 'token' is the board slug. Verified entries were confirmed live on 2026-08-08. To resolve a 'manual' entry: open the company's careers page, DevTools > Network > XHR, reload, and look for a request to boards-api.greenhouse.io / api.ashbyhq.com / api.lever.co — the slug is in the URL.",
+
+  "companies": [
+    { "name": "Anthropic",          "region": "USA",    "ats": "greenhouse", "token": "anthropic",    "tier": 1 },
+    { "name": "OpenAI",             "region": "USA",    "ats": "ashby",      "token": "openai",       "tier": 1 },
+    { "name": "xAI",                "region": "USA",    "ats": "greenhouse", "token": "xai",          "tier": 1 },
+    { "name": "Google DeepMind",    "region": "USA",    "ats": "greenhouse", "token": "deepmind",     "tier": 1,
+      "note": "Low confidence - small board, most DeepMind roles post to google.com/about/careers. Verify." },
+
+    { "name": "Sierra",             "region": "USA",    "ats": "ashby",      "token": "sierra",       "tier": 1 },
+    { "name": "Cursor (Anysphere)", "region": "USA",    "ats": "ashby",      "token": "cursor",       "tier": 1 },
+    { "name": "Decagon",            "region": "USA",    "ats": "ashby",      "token": "decagon",      "tier": 1 },
+    { "name": "Harvey",             "region": "USA",    "ats": "ashby",      "token": "harvey",       "tier": 1 },
+    { "name": "Cognition",          "region": "USA",    "ats": "ashby",      "token": "cognition",    "tier": 1 },
+    { "name": "Glean",              "region": "USA",    "ats": "greenhouse", "token": "gleanwork",    "tier": 1 },
+    { "name": "Deepgram",           "region": "USA",    "ats": "ashby",      "token": "deepgram",     "tier": 2 },
+    { "name": "Cerebras",           "region": "USA",    "ats": "ashby",      "token": "cerebras",     "tier": 2 },
+    { "name": "CoreWeave",          "region": "USA",    "ats": "greenhouse", "token": "coreweave",    "tier": 2 },
+    { "name": "Scale AI",           "region": "USA",    "ats": "greenhouse", "token": "scaleai",      "tier": 2 },
+    { "name": "Databricks",         "region": "USA",    "ats": "greenhouse", "token": "databricks",   "tier": 2 },
+    { "name": "Figure AI",          "region": "USA",    "ats": "greenhouse", "token": "figure",       "tier": 2 },
+    { "name": "Freed",              "region": "USA",    "ats": "ashby",      "token": "freed",        "tier": 2 },
+    { "name": "AMP",                "region": "USA",    "ats": "greenhouse", "token": "ampsortation", "tier": 2 },
+
+    { "name": "Wayve",              "region": "Europe", "ats": "greenhouse", "token": "wayve",        "tier": 1 },
+    { "name": "Helsing",            "region": "Europe", "ats": "greenhouse", "token": "helsing",      "tier": 1 },
+    { "name": "PhysicsX",           "region": "Europe", "ats": "greenhouse", "token": "physicsx",     "tier": 2 },
+    { "name": "Aleph Alpha",        "region": "Europe", "ats": "ashby",      "token": "alephalpha",   "tier": 2 },
+    { "name": "Axelera AI",         "region": "Europe", "ats": "ashby",      "token": "axelera",      "tier": 2 },
+    { "name": "Cradle Bio",         "region": "Europe", "ats": "ashby",      "token": "cradlebio",    "tier": 2 },
+    { "name": "Owkin",              "region": "Europe", "ats": "ashby",      "token": "owkin",        "tier": 2 },
+
+    { "name": "Sarvam AI",          "region": "India",  "ats": "ashby",      "token": "sarvam",       "tier": 1 },
+    { "name": "Whatfix",            "region": "India",  "ats": "smartrecruiters", "token": "Whatfix", "tier": 2 },
+
+    { "name": "Microsoft",          "region": "USA",    "ats": "microsoft",  "token": "", "tier": 4,
+      "search": "product manager",
+      "note": "WORKS but OFF BY DEFAULT (tier 4 > default tier 3). 501 results, 63 of the first 300 match - it would crowd out the tier-1 boards. No description endpoint exists, so require_any_keyword_in_description cannot filter it." },
+    { "name": "Alphabet / Google",  "region": "USA",    "ats": "manual", "url": "https://www.google.com/about/careers/applications/jobs/results/?q=AI%20product%20manager", "tier": 2 },
+    { "name": "Amazon",             "region": "USA",    "ats": "amazon",     "token": "", "tier": 4,
+      "search": "product manager",
+      "note": "WORKS but OFF BY DEFAULT (tier 4 > default tier 3). 775 postings, 459 match the filters - it would monopolise max_new_per_run for weeks. base_query is conjunctive, so a narrower search collapses to ~0. Enable with --tier 4 once per-company filters exist." },
+    { "name": "Meta",               "region": "USA",    "ats": "manual", "url": "https://www.metacareers.com/jobs?q=AI%20product%20manager", "tier": 2 },
+    { "name": "Nvidia",             "region": "USA",    "ats": "workday",    "token": "nvidia/wd5/NVIDIAExternalCareerSite", "tier": 2,
+      "search": "product manager",
+      "note": "Huge board (~1148 hits). 'search' narrows server-side; the 25-page cap still truncates at 500, which Workday orders by relevance." },
+    { "name": "Perplexity",         "region": "USA",    "ats": "ashby",      "token": "perplexity",   "tier": 1 },
+    { "name": "Skild AI",           "region": "USA",    "ats": "greenhouse", "token": "skildai-careers", "tier": 3 },
+    { "name": "Mistral AI",         "region": "Europe", "ats": "ashby",      "token": "mistral.ai",   "tier": 1,
+      "note": "Token contains a dot - 'mistral' and 'mistralai' both 404. Moved off Lever." },
+    { "name": "Nscale",             "region": "Europe", "ats": "greenhouse", "token": "nscaleoperationsukltd", "tier": 3 },
+    { "name": "Fractal Analytics",  "region": "India",  "ats": "workday",    "token": "fractal/wd1/Careers", "tier": 2 },
+    { "name": "Uniphore",           "region": "India",  "ats": "workday",    "token": "uniphore/wd503/Uniphore", "tier": 2 }
+  ],
+
+  "match": {
+    "include_title": [
+      "product manager", "product lead", "head of product", "director of product",
+      "group product manager", "principal product", "senior product", "staff product",
+      "technical product manager", "product owner", "ai product",
+      "member of technical staff && product"
+    ],
+    "exclude_title": [
+      "product marketing", "intern", "internship", "sales", "recruiter", "designer",
+      "engineer", "engineering manager", "data scientist", "research scientist"
+    ],
+    "require_any_keyword_in_description": [],
+    "locations_allow": [],
+    "_locations_note": "Empty list = match everywhere. Add e.g. [\"india\",\"remote\",\"london\",\"bangalore\"] to narrow."
+  }
+}
